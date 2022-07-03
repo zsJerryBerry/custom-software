@@ -54,6 +54,7 @@
 "User": "空",
 "fenlei": "电影$/vodtype/1-#电视剧$/vodtype/2-#综艺$/vodtype/3-#动漫$/vodtype/4-",
 "houzhui": ".html",
+"qishiye": "1",//可以自定义列表翻页起始页的页数，如果填上一个空字，则不使用起始页数，直接获取链接的数据。
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
